@@ -48,6 +48,10 @@ See more on imposter syndrome below, too.
 
 ### A Note about Portfolios
 
+### Tips
+- Get started early
+- Don't apply to your favorite program first
+
 # Your Offers
 You got accepted! Hooray! What are your next steps? Here is what I suggest:
 
@@ -90,5 +94,13 @@ Now you're on your way!
 
 # FAQ
 ### How many programs should I apply to? 
+REU programs are competitive. I would suggest applying somewhere between 8-12 if you are serious about going to another institution to do research or if your home institution does not conduct research in your area of interest.But this is totally up to you! If you only want to do research in a specific area or in a specific location, apply to just the programs that interest you. Do what works for you. Keep in mind that your applications will likely improve as you gain experience in applying, and eventually you will hit the point of diminishing returns. Use your time wisely. 
+
 ### What if I am rejected everywhere I apply? 
+If you're a planner like me, you want to account for this possibility. Here is my advice:
+1. Don't panic or get discouraged. Remember that competitive programs typically yield false negatives and that a lot is dependent on timing and other variables totally out of your control. But you can still do great research this summer and learn a lot.
+
 ### What if one program accepts me and needs me to respond before another program I am more interested in notifies me? 
+
+# Conclusion
+# Good Luck! 
