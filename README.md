@@ -1,10 +1,14 @@
 # Getting a Research Gig: A Guide
-Advice to get an awesome summer research opportunity. 
+Advice to get an awesome undergraduate research opportunity. 
 
 # Introduction
-Thinking about conducting undergraduate research? Want to know if graduate school is right for you? Here's a guide to (a) understanding if research is right for you and (b) maximizing your potential summer research opportunities. My sophomore year of college I was accepted into 3 summer research programs outside of my campus and last year I was accepted into every program to which I applied, which included some top research insitutions like UC Berkeley and MIT. You can do this too! 
+Well, hi! This is my guide to undergraduate research opportunities. Throughout my undergraduate career I have participated in four research experiences: two at my home institution, a summer fellowship program at/through Washington University in St. Louis, and one REU at the University of California at Berkeley. However, last year I had great success in my applications - I got accepted into every research program I applied, which included some competitive programs at MIT, UMass Amherst, Oregon State University, etc... 
 
-Disclaimer: my advice does not replace the advise of a faculty member, professor, or academic advisor. This is by no means a recipe to guaranteed admission, these are just tips I've found to be helpful and to have worked in my own experience. Also, this guide has a clear bias towards STEM fields. 
+You can do this too! You're here, which is great. Keep moving up! 
+
+Disclaimer #1: My advice does not replace the advise of a faculty member, professor, academic advisor, fellowship advisor, all-powerful sorcerer, genie with cosmic powers, a ghost of Robin Williams, etc. Also, this is by no means a recipe for guaranteed admission - but more on that later. Mostly, this is my own reflection on what made my own applications successful this past year. 
+
+Disclaimer #2: My advice mostly relates to opportunities in STEM fields, however you can probably easily identify and choose what is relevant to you and what is not.
 
 # Your Fit
 
@@ -13,6 +17,7 @@ So now that you've decided you want to spend your summer doing undergraduate res
 
 ### Your Home Institution
 ### NSF REUs
+### DAAD RISE
 ### Institution-Sponsored Research Programs
 ### Through Your Network
 
