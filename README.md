@@ -13,8 +13,18 @@ Disclaimer #2: My advice mostly relates to opportunities in STEM fields, however
 # Your Fit
 
 ### Debunking Common Myths & Fears
-- "You have to be a genius to do research."
-- "I don't know anything about the topic I might do research in." 
+#### "You have to be a genius to do research."
+
+There exists a notion that in order to meaningfully contribute to research as an undergraduate, one must be a kid-genius. This is not true. Yes - the kid-geniuses definitely exist, but I hypothesize (someone else can collect the data!) that they are in the minority. 
+
+Remember: a professor, lab, program, or group will not take you on if they do not believe you will make a meaningful contribution to the project or that you are capable of advancing your field of study. You are there to gain experience, and in doing so, you will contribute. Sometimes, a lack of experience in an area can even translate to fresh, new perspectives on a problem. Just be your regularly scheduled you and utilize those problem solving skills and knowledge you've picked up in your coursework and other experiences, and be willing to persevere through challenging or frustrating problems. **You'll be awesome.** 
+
+#### "I don't know anything about the topic I might do research in."
+
+This is a similar fear as above. In the same way that you do not have to be a genius to do research, you also do not have to be an expert. Yes, prerequisite knowledge is helpful, and sometimes programs/professors/etc prefer students with coursework or prior projects in their area to join their groups. But as an undergraduate, most programs/professors/people-who-have-the-power-to-admit-you know that you likely do not have any experience in a specific area and are rather seeking to gain experience. Everyone starts somewhere, your first machine learning experience might be through research or through a course. You might have to be flexible on this first experience - but you also might not have to be!
+
+#### Fear-Squashing Advice
+Some of the best advice I've ever received is "don't even read the qualifications, just apply!" Let someone else tell you no or that you do not have enough experience to do the thing you want to do. If you want to do research, then apply to REUs, talk to professors in the area, make friends with graduate students, read related publications. Doing research is scary, but the thing is... _you can do it_. 
 
 # Your Search
 So now that you've decided you want to spend your summer doing undergraduate research, where do you start? Well, you have multiple options. They are: 
