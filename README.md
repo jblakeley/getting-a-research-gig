@@ -11,6 +11,28 @@ Disclaimer #1: My advice does not replace the advise of a faculty member, profes
 Disclaimer #2: My advice mostly relates to opportunities in STEM fields, however you can probably easily identify and choose what is relevant to you and what is not.
 
 # Your Fit
+### Is Research Right for You?
+
+**Short answer:** I have no idea. It depends. 
+
+**Long answer:** I have no idea. It depends. All I can say is that in my own _very limted experience_, I have beeen aware of research that resembles a lot of things: research that looks like doing math and proving theorems, research that looks like software engineering, research that looks like survey collection, research that looks like what you did in high school chemistry or physics lab, research that looks like writing a paper in a history or English class. 
+
+When I give prospective student tours at my university, my suggestion is always this: try doing an industry internship in your chosen field one summer, and try conducting research during the next. Then, for your last summer of college (or for your career, whatever, depending on where you are), do what you liked most! 
+
+An important realization that I had during my sophomore year was this: the problem you are solving and the work you are doing are not the same, and you might enjoy them differently. An example of this is my current research. Currently, I am working on a problem, that if solved, would have applications in phylogenetics (the field that studies the evolutionary relationships between species). I haven't taken a biology class since my freshman year of high school, when it was required... With all due respect to phylogeneticists, the application fo my work sounds boring. 
+
+BUT. I enjoy the work that is required to solve the problem. I enjoy thinking about combinatorial problems, probabilities, graph data structures, and programming. I enjoy reading beautiful theorems.
+
+I have also worked on problems where I was motivated to do some boring work because the end result would be interesting. It goes both ways, and it seems to me that the best of both worlds is to find a problem that you care about and enjoy the techniques required to solve the problem. As I have not quite found this balance, I suspect it takes time to do so. (Hooray for extrapolating from one data point!) Keep this in mind though, when considering your research interests and opportunities. 
+
+### Finding Answers
+Here are some ideas I have for you to figure out whether or not you might enjoy research: 
+- Think about your favorite classes. Go to that professor's website and read the summarized description of their research. Does it intrigue you? 
+- Talk to graduate students! They will give you unfiltered, candid answers about what it is like to do research. (In general, I highly recommend befriending graduate students and asking them for advice on courses to take, professors to work with, opportunities to pursue, etc.)
+- Read publications in areas that interest you. It's likely that reading entire papers on a topic will be challenging, but you can get a good idea about the nature of the work from the abstract or any slides/powerpoint that are posted with the paper. You can also look up paper titles on Youtube to see if an author of a work has a recorded presentation, which might be easier to digest than a paper. 
+- Talk to your academic advisors or professors. Share with them why you are interested in doing research, but also share your concerns.
+- Network with those who have done research and chose not to pursue it. It is always worth getting multiple opinions. 
+
 
 ### Debunking Common Myths & Fears
 #### "You have to be a genius to do research."
