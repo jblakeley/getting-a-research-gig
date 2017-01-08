@@ -91,9 +91,30 @@ Give your letter writers the following:
 After all letters are submitted, be sure to write your letter writers a handwritten thank you note. 
 
 ### Your Essays
+Your essays are probably the second most important aspect of your application. Most programs require a statement of purpose/objectives, and some require additional essays. 
 
 ##### Statement of Purpose/Objectives
+Your statement of purpose (SOP) is your chance to say (a) what your research interests are and (b) what previous experience you have and how it enables you to contribute to your area of interest. 
+
+When talking about your area of interest, I recommend: 
+- Mention specific professors you are interested in working with. ("I am interested in Prof. A. Somebody...")
+- Mention specific ongoing projects/papers that you are interested in  ("... on her project related to X...")
+- Mention any reasons why you might be interested in this area (did you read a paper? take a class? see a talk?)
+
+If you have previous research experience, I suggest writing about your previous experience by breaking it down into four parts:
+- **The purpose of your research:** Give both the technical jargon definition and layperson description of your research. (The technical jargon version shows your expertise, but most people who read your description will not experts in that specific area, so a layperson definition shows why your previous work was important.) 
+- **Your contribution to the project:** State what your role on the project was. Did you run experiments? Design the experiment? Write a paper or report? Conduct ata analysis? 
+- **What you learned:** Mention both overarching research skills as well as skills specific to your field. Did you learn a specific programming language or data analysis technique? Did you learn to communicate scientific results or work on a team? 
+- **The project's results:** If your project had results, state what they were and how they relate to the project's motivation or description. If you presented at any conferences or published, be absolutely sure to mention this as well. 
+
+If you do not have previous research experience, I suggest: 
+- Talking about a class project/project in general, your process in completing it, how it relates to doing research. 
+- Showcasing skills/traits you probably have: related technical skills, knowledge on a topic, working in a team, oral/written communication, curiosity, problem solving, reframing problems/thinking about them from an alternate perspective, time management, etc. Give anecdotes! It's age old writing advice, but it's good: _show_ don't tell. 
+
+In general, I recommend incorporating words or themes from the program's website. Or, even better, if you can locate the grant which funds the program, use wording from the grant! The program is funded to accomplish certain goals and if you can show that your participation meets those goals, all the better! 
+
 ##### The Diversity Essay
+Some programs might ask you to write an essay related to diversity. A lack of diversity in higher education and research is a persistent issue, and many summer research programs seek to introduce underrepresented populations to careers in research. No matter your status, you should show that you understand why diversity is important, emphasize that you bring diversity of thought to the program, and show that you will be a champion or advocate for diversity. 
 
 ### Your Résumé/CV
 
