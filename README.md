@@ -63,7 +63,6 @@ So now that you've decided you want to spend your summer doing undergraduate res
 # A Note About Admissions
 
 
-
 # Your Application
 Each application will be slightly different. However, I address the most common parts of the application below. 
 
@@ -117,7 +116,12 @@ In general, I recommend incorporating words or themes from the program's website
 Some programs might ask you to write an essay related to diversity. A lack of diversity in higher education and research is a persistent issue, and many summer research programs seek to introduce underrepresented populations to careers in research. No matter your status, you should show that you understand why diversity is important, emphasize that you bring diversity of thought to the program, and show that you will be a champion or advocate for diversity. 
 
 ### Your Résumé/CV
-
+Most programs also ask for your résumé or CV. You can find a lot of information about this elsewhere, but here are my tips for academic résumés:
+- Above all, make it easy to read! It should not be a treasure hunt. Put your name, undergraduate institution, major, and GPA at the top of the page. I then section my résumé the following way: research experience (previous research experience), technical experience (other projects, not research, in my field. You could put internship experience here!), teaching, and service (this could also be a leadership/extracurriculars section).
+- Your experience descriptions should cover any specific technical skills you have (specific lab equipment, programming languages or software, etc) _and_ any transferable research skills (communications, teamwork, literature reviews, etc). 
+- Don't worry about sticking to one page unless the program requests it. This isn't a career fair and if an admissions panel gets to your résumé after reading your letters of rec and your SOP, they will probably take time on it. List all of your experience! 
+- Emphasize the following: any publications, academic scholarships or awards (provide explanations if they are not well known), or any academic presentations/posters you might have given.
+- List your specific upper level or elective courses by _name_ NOT course number. 
 
 ### A Note about Portfolios
 
