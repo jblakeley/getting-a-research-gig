@@ -6,7 +6,7 @@ Well, hi! This is my guide to undergraduate research opportunities. Throughout m
 
 You can do this too! You're here, which is great. Keep moving up! 
 
-Disclaimer #1: My advice does not replace the advise of a faculty member, professor, academic advisor, fellowship advisor, all-powerful sorcerer, genie with cosmic powers, a ghost of Robin Williams, etc. Also, this is by no means a recipe for guaranteed admission - but more on that later. Mostly, this is my own reflection on what made my own applications successful this past year. 
+Disclaimer #1: My advice does not replace the advice of a faculty member, professor, academic advisor, fellowship advisor, all-powerful sorcerer, genie with cosmic powers, a ghost of Robin Williams, etc. Also, this is by no means a recipe for guaranteed admission - but more on that later. Mostly, this is my own reflection on what made my own applications successful this past year. 
 
 Disclaimer #2: My advice mostly relates to opportunities in STEM fields, however you can probably easily identify and choose what is relevant to you and what is not.
 
@@ -15,7 +15,7 @@ Disclaimer #2: My advice mostly relates to opportunities in STEM fields, however
 
 **Short answer:** I have no idea. It depends. 
 
-**Long answer:** I have no idea. It depends. All I can say is that in my own _very limted experience_, I have beeen aware of research that resembles a lot of things: research that looks like doing math and proving theorems, research that looks like software engineering, research that looks like survey collection, research that looks like what you did in high school chemistry or physics lab, research that looks like writing a paper in a history or English class. 
+**Long answer:** I have no idea. It depends. All I can say is that in my own _very limited experience_, I have been aware of research that resembles a lot of things: research that looks like doing math and proving theorems, research that looks like software engineering, research that looks like survey collection, research that looks like what you did in high school chemistry or physics lab, research that looks like writing a paper in a history or English class. 
 
 When I give prospective student tours at my university, my suggestion is always this: try doing an industry internship in your chosen field one summer, and try conducting research during the next. Then, for your last summer of college (or for your career, whatever, depending on where you are), do what you liked most! 
 
@@ -55,9 +55,9 @@ So now that you've decided you want to spend your summer doing undergraduate res
 Look up research opportunities at your home institution. Check out professor websites, talk with graduate students, do your homework on internal fellowships and grants. Doing research at your home institution is great because you can do it during the school year, often for pay or for credit, and if you enjoy your project, you can do it for an extended period of time. 
 
 ### NSF REUs
-NSF REUs are probably the best known research experience for undergraduates (aka REU). They usually occur over the summer months, are fully funded (so you get paid, and generally receive either room/board as a part of your fellowship or you receive a living stipend for your grocery bill, rent, etc), and you have to apply. They are funded by the National Science Foundation (so are generally intended for STEM majors, including the social sciences, STEM education, and some entrepreneurial projects), are highly regraded, and generally have an interest in exposing underrepresented populations to careers in research.  
+NSF REUs are probably the best known research experience for undergraduates (aka REU). They usually occur over the summer months, are fully funded (so you get paid, and generally receive either room/board as a part of your fellowship or you receive a living stipend for your grocery bill, rent, etc), and you have to apply. They are funded by the National Science Foundation (so are generally intended for STEM majors, including the social sciences, STEM education, and some entrepreneurial projects), are highly regarded, and generally have an interest in exposing underrepresented populations to careers in research.  
 
-You can find out more about NSF REUs here: (https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
+You can find out more about NSF REUs here: https://www.nsf.gov/crssprgm/reu/reu_search.jsp
 
 ### Institution-Sponsored Research Programs
 
@@ -66,7 +66,7 @@ Some institutions host their own research experiences for undergraduates. So if 
 - [Washignton University in St. Louis Summer Engineering Fellowship](https://engineering.wustl.edu/current-students/student-services/Pages/wusef.aspx)(I did this! I loved it! 10/10 would recommend.)
 
 ### Through Your Network
-Another way you might find a research experience is through your network. As you build relationships with your professors, you should keep them updated with your current research interets. When appropriate, you might ask one of your academic advisors or course instructors to introduce you to their peers or colleagues at other institutions (or even your own).
+Another way you might find a research experience is through your network. As you build relationships with your professors, you should keep them updated with your current research interests. When appropriate, you might ask one of your academic advisors or course instructors to introduce you to their peers or colleagues at other institutions (or even your own).
 
 ### Related Experiences
 Research also happens outside of colleges and universities! Consider checking out opportunities at National Labs or even industry organizations. Here are some relevant links: 
@@ -82,12 +82,12 @@ Keep in mind that some of these programs can be extremely competitive. This is n
 The bottom line is that these admission systems likely to skew heavily towards false negatives: more qualified students apply than can be accepted. So do not get discouraged if you don't get accepted into your favorite program - a lot is dependent on being the right applicant at the right time. Rejection is neither a judgement on your technical, academic, or even personal merit. **You are awesome and will be an asset wherever you go. Remember that!**
 
 # Your Application
-Each application will be slightly different. However, I address the most common parts of the application below. Again, these are mostly tailored to NSF REU applications, but you can probabably easily pick and choose what advice is relevant to your own goals. 
+Each application will be slightly different. However, I address the most common parts of the application below. Again, these are mostly tailored to NSF REU applications, but you can pick and choose what advice is relevant to your own goals. 
 
 By the time you apply, you either already have research experience or you don't. Some programs target students who have no research experience, while other programs favor students with experience. Either way, you should convince the admissions panel that you are knowledgeable about what it means to do research (however, you might not know if you want to pursue it as a career or not) and are capable of contributing to a large research project (either by having prerequisite knowledge/skills in the area of research, being able to work well on a team, motivation and curiosity, etc). 
 
 ### Your Letters of Recommendation
-Most programs require 2-3 letters of recommendation. Letters of recommendation are probably the most important part of your application. The best indicator of your ability to do research to the admissions committee will be by their peers - other professional researchers. Thus, your letters should be from professors or those who have careers in research, such as researchers at National Labs, inudstry, etc. (Letters should NOT be from high school teachers. Also, they generally should not be from graduate students or postdocs either. Again, keep in mind that professional researchers are best qualified to evaluate your potential or abilities in doing research.) 
+Most programs require 2-3 letters of recommendation. Letters of recommendation are probably the most important part of your application. The best indicator of your ability to do research to the admissions committee will be by their peers - other professional researchers. Thus, your letters should be from professors or those who have careers in research, such as researchers at National Labs, industry, etc. (Letters should NOT be from high school teachers. Also, they generally should not be from graduate students or postdocs either. Again, keep in mind that professional researchers are best qualified to evaluate your potential or abilities in doing research.) 
 
 The best letters of recommendations will be from those you have worked with previously on research, a large project in a related field, have been a teaching assistant with, etc. Generally you want to avoid the "Did Well in Class" letters (also known as a DWIC letter), or letters from professors who only know you from class. One letter like this might be okay, but take time to meet with professors outside of class to discuss your career goals, possible research interests, their research and advice for conducting research, etc. One step better than a DWIC letter will be a letter from a professor where the course you took required a large project or where the course was an advanced topic. 
 
@@ -120,7 +120,7 @@ When talking about your area of interest, I recommend:
 
 If you have previous research experience, I suggest writing about your previous experience by breaking it down into four parts:
 - **The purpose of your research:** Give both the technical jargon definition and layperson description of your research. (The technical jargon version shows your expertise, but most people who read your description will not experts in that specific area, so a layperson definition shows why your previous work was important.) 
-- **Your contribution to the project:** State what your role on the project was. Did you run experiments? Design the experiment? Write a paper or report? Conduct ata analysis? 
+- **Your contribution to the project:** State what your role on the project was. Did you run experiments? Design the experiment? Write a paper or report? Conduct data analysis? 
 - **What you learned:** Mention both overarching research skills as well as skills specific to your field. Did you learn a specific programming language or data analysis technique? Did you learn to communicate scientific results or work on a team? 
 - **The project's results:** If your project had results, state what they were and how they relate to the project's motivation or description. If you presented at any conferences or published, be absolutely sure to mention this as well. 
 
@@ -156,39 +156,20 @@ You got accepted! Hooray! What are your next steps? Here is what I suggest:
   - Who will I likely be interacting with the most?
   - Will you (or anyone on the project) be traveling for long periods of time? 
   - What will my project be? Or, if the specific project is still undefined, what are some possible projects/areas/topics I could be working on? 
-  - What skills, tools, or techniques will I be using/learing?
+  - What skills, tools, or techniques will I be using/learning?
   - Are there relevant papers I can read in advance?
   - Can we talk on the phone or Skype about the project?
   - Will there be an opportunity to publish?  
   
 If any of the answers to these questions raise a red flag, trust your instinct and contact your program coordinator. The best time to switch projects or PIs is _before_ the program even starts. That way, you haven't wasted your time (or the PI's summer). It's totally reasonable to say that your research interests have changed in some way. Now, your program coordinator may or may not be able to make this change happen, but you should always (politely) ask for what you want.  
 3. **Decide.** Once you have some approximate information about what your summer will look like - what your area of research will be, who you will be working with, what you will learn along the way - it is time to decide whether or not that research program is for you! Hindsight is 20/20, so here are some things I would weigh heavily in my own decision: 
-  - **Is this a research area I can see myself wanting to pursue in the future?** You may or may not know the answer to this, and that's OK! But if you get accepted into a robotics program and you see yourself as being a roboticst in the future, then this might be a better choice than, say, a bioinformatics program. 
-  - **Is there a potential to publish?** Whether you decide you want to pursue research beyond your undergraudate education or not, publishing is a big deal. If your advisor says there is a potential to write a paper/present at a conference, then you will gain valuable experience (and, um, prestige). 
+  - **Is this a research area I can see myself wanting to pursue in the future?** You may or may not know the answer to this, and that's OK! But if you get accepted into a robotics program and you see yourself as being a roboticist in the future, then this might be a better choice than, say, a bioinformatics program. 
+  - **Is there a potential to publish?** Whether you decide you want to pursue research beyond your undergraduate education or not, publishing is a big deal. If your advisor says there is a potential to write a paper/present at a conference, then you will gain valuable experience (and, um, prestige). 
   - **Are the skills, tools, and technologies I will be using/learning relevant/popular/in demand?** While research experience in itself is valuable, so are the tools you learn while doing research. When possible, choose experiences where the techniques you are using are cutting-edge and in demand in industry as well as academia.
   - **Do the people seem cool?** If you are able to interact at all with the people you will be working with, this is an important question to consider! _Who_ you work with almost always matters more than _what_ you are working on when it comes to having an enjoyable experience. 
   - **Does the location of the program seem fun? Safe? Affordable?** All important questions to be answered. I spent a summer in St. Louis and absolutely loved it because there were so many free things to do when I wasn't working. However, at Berkeley, I did not always feel safe in the evenings and it severely limited how much I enjoyed my summer. Remember, this is an opportunity to learn and grow as an academic, but it's your summer too! 
 
 Now you're on your way! 
-
-# Your Research Experience
-
-### Pro-Tips
-Here are some tips for your research experience!
-
-- **Ask for conference funding!** Many programs have some funding set aside to send students to conferences, ask for it! 
-- **Write!** An integral part of doing research is writing and communicating your findings. Keep a blog, or draft a technical report as you complete your program. This will be great material to lay the foundation of a publication or will be great material for a future portfolio or website. 
-- **Keep a working résumé** As you complete your program, keep a working version of your résumé. It is easy to forget specific skills you learn throughout your program, so keep track of what you make, write, and learn. 
-
-### Hard Thing are Hard
-Here are some items I struggled with during my own REUs, and some advice I have for overcoming hard things: 
-
-- **Reading papers:** Reading research publications is always hard, especially when you are new to research or to a field. First, know that you are not expected to understand everything on your first (second, third...) reading. Use wikipedia! See if the authors have slides or lectures on their websites (or Youtube) covering the paper. My goal whenever I read a paper is to eventually be able to teach it to someone else. Thinking about teaching the subject material to someone else makes you prioritize concepts and allows you to realize what is confusing to yourself. Even if you don't get to this point, I think the exercise is helpful. 
-- **Knowing when to get started:** 
-- **Knowing when to ask for help:**
-- **Writing papers:** 
-- **Dealing with imposter syndrome:** 
-
 
 # FAQ
 ### How many programs should I apply to? 
@@ -202,7 +183,7 @@ If you're a planner like me, you want to account for this possibility. Here is m
 4. Work on personal projects. Build something, pick up a textbook on a topic you are interested in and work through it, take a course through Coursera or MOOCs, do something to show you are invested in your area of interest when you apply again next year. 
 
 ### What if one program accepts me and needs me to respond before another program I am more interested in notifies me? 
-This is a likely event as most programs do not adhere to the same admissions timelne. If a program accepts you and you are still waiting to hear on others, I recommend first asking for a reasonable extension from the program that accepted you (this is a good time to ask all those questions about your potential project... see the "Your Offers" section above!). A week or two is generally a reasonable extension. Second, email the programs that you are most interested in and ask what their admissions timeline is (When might you send out admissions notifications?) as you have an offer but would like to make a decision with full information. The program that admitted you might decline your extension, and other programs might not know for sure what their timelines look like, but it does not hurt to seek more information. Then, after all this, you have to decide whether or not you will accept. Hopefully your interactions with the programs will help you in this decision! 
+This is a likely event as most programs do not adhere to the same admissions timeline. If a program accepts you and you are still waiting to hear on others, I recommend first asking for a reasonable extension from the program that accepted you (this is a good time to ask all those questions about your potential project... see the "Your Offers" section above!). A week or two is generally a reasonable extension. Second, email the programs that you are most interested in and ask what their admissions timeline is (When might you send out admissions notifications?) as you have an offer but would like to make a decision with full information. The program that admitted you might decline your extension, and other programs might not know for sure what their timelines look like, but it does not hurt to seek more information. Then, after all this, you have to decide whether or not you will accept. Hopefully your interactions with the programs will help you in this decision! 
 
 # Conclusion
 
