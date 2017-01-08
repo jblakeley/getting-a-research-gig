@@ -58,8 +58,6 @@ So now that you've decided you want to spend your summer doing undergraduate res
 ### Through Your Network
 ### Related Experiences
 
-
-
 # A Note About Admissions
 
 
@@ -123,25 +121,25 @@ Most programs also ask for your résumé or CV. You can find a lot of informatio
 - Emphasize the following: any publications, academic scholarships or awards (provide explanations if they are not well known), or any academic presentations/posters you might have given.
 - List your specific upper level or elective courses by _name_ NOT course number. 
 
-### A Note about Portfolios
-
 ### Tips
-- Get started early
-- Don't apply to your favorite program first
+Here are some general tips for your application writing adventures! 
+- **Get started early:** It can't be said enough, but seriously, try not to procrastinate. At least on behalf of your letter writers. 
+- **Don't apply to your favorite program first:** The more SOPs you write, the better they will get. You'll find better ways to word things and better ways to tailor your application to each individual program. So I suggest waiting to apply to your favorite program after you have written a few other applications first. 
+- **Have professors, graduate students, friends read your application:** Have professors in your field read your essays and get their expertise feedback. But remember, not everyone who will read your application will be an expert in your field, so have others read your application as well to see if you motivate your interests/explain your previous experience in a way that is understandable (or at least mostly understandable) to all. 
 
 # Your Offers
 You got accepted! Hooray! What are your next steps? Here is what I suggest:
 
 1. **Party!** You did the thing! Celebrate your achievements! 
 2. **Negotiate.** So, it is most likely that you will not be able to negotiate pay or benefits for a research experience in the same way that you would an internship or job. What I _really_ mean when I say "negotiate" is _make sure this is the research experience you want_. Before accepting an offer, I recommend that you ask your program coordinator to put you in touch with your research advisor/PI (principal investigator). Then, you should ask your PI the following questions: 
-  - **Who else is working on the project? Other professors, graduate student(s), undergrad(s)?** 
-  - **Who will I likely be interacting with the most?**
-  - **Will you (or anyone on the project) be traveling for long periods of time?** 
-  - **What will my project be? Or, if the specific project is still undefined, what are some possible projects/areas/topics I could be working on?** 
-  - **What skills, tools, or techniques will I be using/learing?**
-  - **Are there relevant papers I can read in advance?**
-  - **Can we talk on the phone or Skype about the project?**
-  - **Will there be an opportunity to publish?**  
+  - Who else is working on the project? Other professors, graduate student(s), undergrad(s)? 
+  - Who will I likely be interacting with the most?
+  - Will you (or anyone on the project) be traveling for long periods of time? 
+  - What will my project be? Or, if the specific project is still undefined, what are some possible projects/areas/topics I could be working on? 
+  - What skills, tools, or techniques will I be using/learing?
+  - Are there relevant papers I can read in advance?
+  - Can we talk on the phone or Skype about the project?
+  - Will there be an opportunity to publish?  
   
 If any of the answers to these questions raise a red flag, trust your instinct and contact your program coordinator. The best time to switch projects or PIs is _before_ the program even starts. That way, you haven't wasted your time (or the PI's summer). It's totally reasonable to say that your research interests have changed in some way. Now, your program coordinator may or may not be able to make this change happen, but you should always (politely) ask for what you want.  
 3. **Decide.** Once you have some approximate information about what your summer will look like - what your area of research will be, who you will be working with, what you will learn along the way - it is time to decide whether or not that research program is for you! Hindsight is 20/20, so here are some things I would weigh heavily in my own decision: 
@@ -184,4 +182,5 @@ If you're a planner like me, you want to account for this possibility. Here is m
 This is a likely event as most programs do not adhere to the same admissions timelne. If a program accepts you and you are still waiting to hear on others, I recommend first asking for a reasonable extension from the program that accepted you (this is a good time to ask all those questions about your potential project... see the "Your Offers" section above!). A week or two is generally a reasonable extension. Second, email the programs that you are most interested in and ask what their admissions timeline is (When might you send out admissions notifications?) as you have an offer but would like to make a decision with full information. The program that admitted you might decline your extension, and other programs might not know for sure what their timelines look like, but it does not hurt to seek more information. Then, after all this, you have to decide whether or not you will accept. Hopefully your interactions with the programs will help you in this decision! 
 
 # Conclusion
+
 # Good Luck! 
