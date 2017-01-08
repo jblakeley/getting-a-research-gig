@@ -52,17 +52,37 @@ Some of the best advice I've ever received is "don't even read the qualification
 So now that you've decided you want to spend your summer doing undergraduate research, where do you start? Well, you have multiple options. They are: 
 
 ### Your Home Institution
+Look up research opportunities at your home institution. Check out professor websites, talk with graduate students, do your homework on internal fellowships and grants. Doing research at your home institution is great because you can do it during the school year, often for pay or for credit, and if you enjoy your project, you can do it for an extended period of time. 
+
 ### NSF REUs
-### DAAD RISE
+NSF REUs are probably the best known research experience for undergraduates (aka REU). They usually occur over the summer months, are fully funded (so you get paid, and generally receive either room/board as a part of your fellowship or you receive a living stipend for your grocery bill, rent, etc), and you have to apply. They are funded by the National Science Foundation (so are generally intended for STEM majors, including the social sciences, STEM education, and some entrepreneurial projects), are highly regraded, and generally have an interest in exposing underrepresented populations to careers in research.  
+
+You can find out more about NSF REUs here: (https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
+
 ### Institution-Sponsored Research Programs
+
+Some institutions host their own research experiences for undergraduates. So if you have an interest in a specific school or program, you might check to see if that institution hosts their own program. Two I am aware of are: 
+- [MIT MSRP](http://odge.mit.edu/undergraduate/msrp/)
+- [Washignton University in St. Louis Summer Engineering Fellowship](https://engineering.wustl.edu/current-students/student-services/Pages/wusef.aspx)(I did this! I loved it! 10/10 would recommend.)
+
 ### Through Your Network
+Another way you might find a research experience is through your network. As you build relationships with your professors, you should keep them updated with your current research interets. When appropriate, you might ask one of your academic advisors or course instructors to introduce you to their peers or colleagues at other institutions (or even your own).
+
 ### Related Experiences
+Research also happens outside of colleges and universities! Consider checking out opportunities at National Labs or even industry organizations. Here are some relevant links: 
+- [DOE SULI](https://science.energy.gov/wdts/suli/)
+- [Opportunities at Oak Ridge National Park](http://www.orau.org/ornl/undergraduates/)
+- [Opportunities at Sandia](http://www.sandia.gov/careers/students_postdocs/internships/)
+
+(There are many more of these!)
 
 # A Note About Admissions
+Keep in mind that some of these programs can be extremely competitive. This is not a reason not to apply! There are many reasons for a student not to get admitted, and some of them can be entirely unrelated to you and your own qualifications. For example, you might apply to a program to work with Professor Z, and Professor Z might be traveling throughout the summer to conferences and not take on a student. Or, the department you applied to might have gotten an extra grant to take students on for a specific project and your interests differ slightly than that new grant. 
 
+The bottom line is that these admission systems likely to skew heavily towards false negatives: more qualified students apply than can be accepted. So do not get discouraged if you don't get accepted into your favorite program - a lot is dependent on being the right applicant at the right time. Rejection is neither a judgement on your technical, academic, or even personal merit. **You are awesome and will be an asset wherever you go. Remember that!**
 
 # Your Application
-Each application will be slightly different. However, I address the most common parts of the application below. 
+Each application will be slightly different. However, I address the most common parts of the application below. Again, these are mostly tailored to NSF REU applications, but you can probabably easily pick and choose what advice is relevant to your own goals. 
 
 By the time you apply, you either already have research experience or you don't. Some programs target students who have no research experience, while other programs favor students with experience. Either way, you should convince the admissions panel that you are knowledgeable about what it means to do research (however, you might not know if you want to pursue it as a career or not) and are capable of contributing to a large research project (either by having prerequisite knowledge/skills in the area of research, being able to work well on a team, motivation and curiosity, etc). 
 
