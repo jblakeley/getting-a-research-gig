@@ -56,27 +56,47 @@ So now that you've decided you want to spend your summer doing undergraduate res
 ### DAAD RISE
 ### Institution-Sponsored Research Programs
 ### Through Your Network
+### Related Experiences
 
 
 
 # A Note About Admissions
-So here is the bad news: you could be the most qualified, perfect applicant to an NSF REU or other research program, and still get rejected. Why? Well, there are a lot of reasons: 
 
-- Professor/Mentor Mismatch
-- A system designed to favor false negatives.
 
-See more on imposter syndrome below, too. 
 
 # Your Application
+Each application will be slightly different. However, I address the most common parts of the application below. 
 
-
-### Your Resume/CV
-### Your Essays
-
-##### Statement of Purpose
-##### The Diversity Essay
+By the time you apply, you either already have research experience or you don't. Some programs target students who have no research experience, while other programs favor students with experience. Either way, you should convince the admissions panel that you are knowledgeable about what it means to do research (however, you might not know if you want to pursue it as a career or not) and are capable of contributing to a large research project (either by having prerequisite knowledge/skills in the area of research, being able to work well on a team, motivation and curiosity, etc). 
 
 ### Your Letters of Recommendation
+Most programs require 2-3 letters of recommendation. Letters of recommendation are probably the most important part of your application. The best indicator of your ability to do research to the admissions committee will be by their peers - other professional researchers. Thus, your letters should be from professors or those who have careers in research, such as researchers at National Labs, inudstry, etc. (Letters should NOT be from high school teachers. Also, they generally should not be from graduate students or postdocs either. Again, keep in mind that professional researchers are best qualified to evaluate your potential or abilities in doing research.) 
+
+The best letters of recommendations will be from those you have worked with previously on research, a large project in a related field, have been a teaching assistant with, etc. Generally you want to avoid the "Did Well in Class" letters (also known as a DWIC letter), or letters from professors who only know you from class. One letter like this might be okay, but take time to meet with professors outside of class to discuss your career goals, possible research interests, their research and advice for conducting research, etc. One step better than a DWIC letter will be a letter from a professor where the course you took required a large project or where the course was an advanced topic. 
+
+When asking for a letter of recommendation, you should: 
+- Ask in plenty of time, especially if this is the first letter of recommendation you are asking for from your letter writer. Four weeks of notice is my recommendation. 
+- Ask in person! 
+- Ask if they feel like they can write you a **strong** letter of recommendation. This gives them a polite out if they do not believe they can write you a good letter.
+- Remind your letter writer about your deadlines politely (and frequently). 
+
+Give your letter writers the following: 
+- A spreadsheet of everywhere you are applying: program name, deadline, who to address the letter to (if possible), address for the letterhead, any additional information (like professors you want to work with, topics you are interested in, etc). I like to use Google Sheets for this so that I can update information as it changes. 
+- A brief history of your relationship (how did you meet? how long have you known him/her? what grades did you make in their class? etc).
+- What the criteria are listed for program participants (and how you fit these, give examples. So if a program wants participants who are knowledgeable in X, give an example to your letter writer of how you gained knowledge in X).
+- Any essays you are required to submit with the application (for example, your statement of objectives). If these essays are long, or if the application requires multiple essays, I like to write a 2-4 sentence summary of these essays for my letter writers to quickly access. 
+- Your résumé/CV. 
+- Your transcript (and any explanations that might be necessary with this, for example, if you took a graduate course, took a course pass/fail, had low grade(s) for a good reason, etc). 
+
+After all letters are submitted, be sure to write your letter writers a handwritten thank you note. 
+
+### Your Essays
+
+##### Statement of Purpose/Objectives
+##### The Diversity Essay
+
+### Your Résumé/CV
+
 
 ### A Note about Portfolios
 
@@ -129,10 +149,14 @@ Now you're on your way!
 REU programs are competitive. I would suggest applying somewhere between 8-12 if you are serious about going to another institution to do research or if your home institution does not conduct research in your area of interest.But this is totally up to you! If you only want to do research in a specific area or in a specific location, apply to just the programs that interest you. Do what works for you. Keep in mind that your applications will likely improve as you gain experience in applying, and eventually you will hit the point of diminishing returns. Use your time wisely. 
 
 ### What if I am rejected everywhere I apply? 
-If you're a planner like me, you want to account for this possibility. Here is my advice:
+If you're a planner like me, you want to account for this possibility. Here is my advice:  
 1. Don't panic or get discouraged. Remember that competitive programs typically yield false negatives and that a lot is dependent on timing and other variables totally out of your control. But you can still do great research this summer and learn a lot.
+2. Reach out to professors at your local institution and investigate opportunities at home.
+3. Apply to other internships, fellowships, volunteer positions - anything that will give you additional related skillsets, broaden your network, or potentially give you another letter of recommendation. 
+4. Work on personal projects. Build something, pick up a textbook on a topic you are interested in and work through it, take a course through Coursera or MOOCs, do something to show you are invested in your area of interest when you apply again next year. 
 
 ### What if one program accepts me and needs me to respond before another program I am more interested in notifies me? 
+This is a likely event as most programs do not adhere to the same admissions timelne. If a program accepts you and you are still waiting to hear on others, I recommend first asking for a reasonable extension from the program that accepted you (this is a good time to ask all those questions about your potential project... see the "Your Offers" section above!). A week or two is generally a reasonable extension. Second, email the programs that you are most interested in and ask what their admissions timeline is (When might you send out admissions notifications?) as you have an offer but would like to make a decision with full information. The program that admitted you might decline your extension, and other programs might not know for sure what their timelines look like, but it does not hurt to seek more information. Then, after all this, you have to decide whether or not you will accept. Hopefully your interactions with the programs will help you in this decision! 
 
 # Conclusion
 # Good Luck! 
