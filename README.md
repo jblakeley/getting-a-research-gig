@@ -174,17 +174,20 @@ Now you're on your way!
 # Your Research Experience
 
 ### Pro-Tips
-- **Ask for conference funding!**
-- **Write!**
-- **Keep a working résumé**
-- **Build a website**
+Here are some tips for your research experience!
+
+- **Ask for conference funding!** Many programs have some funding set aside to send students to conferences, ask for it! 
+- **Write!** An integral part of doing research is writing and communicating your findings. Keep a blog, or draft a technical report as you complete your program. This will be great material to lay the foundation of a publication or will be great material for a future portfolio or website. 
+- **Keep a working résumé** As you complete your program, keep a working version of your résumé. It is easy to forget specific skills you learn throughout your program, so keep track of what you make, write, and learn. 
 
 ### Hard Thing are Hard
-- **Reading papers:** 
-- **Knowing when to get started:**
+Here are some items I struggled with during my own REUs, and some advice I have for overcoming hard things: 
+
+- **Reading papers:** Reading research publications is always hard, especially when you are new to research or to a field. First, know that you are not expected to understand everything on your first (second, third...) reading. Use wikipedia! See if the authors have slides or lectures on their websites (or Youtube) covering the paper. My goal whenever I read a paper is to eventually be able to teach it to someone else. Thinking about teaching the subject material to someone else makes you prioritize concepts and allows you to realize what is confusing to yourself. Even if you don't get to this point, I think the exercise is helpful. 
+- **Knowing when to get started:** 
 - **Knowing when to ask for help:**
-- **Writing papers:**
-- **Dealing with imposter syndrome:**
+- **Writing papers:** 
+- **Dealing with imposter syndrome:** 
 
 
 # FAQ
@@ -202,5 +205,10 @@ If you're a planner like me, you want to account for this possibility. Here is m
 This is a likely event as most programs do not adhere to the same admissions timelne. If a program accepts you and you are still waiting to hear on others, I recommend first asking for a reasonable extension from the program that accepted you (this is a good time to ask all those questions about your potential project... see the "Your Offers" section above!). A week or two is generally a reasonable extension. Second, email the programs that you are most interested in and ask what their admissions timeline is (When might you send out admissions notifications?) as you have an offer but would like to make a decision with full information. The program that admitted you might decline your extension, and other programs might not know for sure what their timelines look like, but it does not hurt to seek more information. Then, after all this, you have to decide whether or not you will accept. Hopefully your interactions with the programs will help you in this decision! 
 
 # Conclusion
+
+A lot of work goes into finding good-fit research opportunities. I know it can seem overwhelming (and truth be told, sometimes it is). But the process is a great opportunity to reflect on yourself, your interests, what you want in a career, and to build relationships with your professors and academic advisors. 
+
+One of my favorite quotes is from Ze Frank, "Let me not think of my work only as a stepping stone to something else,
+and if it is, let me become fascinated with the shape of the stone." Be fascinated with the shape of this stone. **You got this.**
 
 # Good Luck! 
